@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Python virtual environment
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Raw source data
+data/raw/
+data/raw.zip
+
+# Generated Power BI extracts
+powerbi/data/*.csv
+
+# Temporary files
+*.tmp
+*.log
